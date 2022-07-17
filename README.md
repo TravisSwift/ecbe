@@ -47,6 +47,9 @@ Use Insomnia or a similar application to interact with HTTP-based APIs
  
 ![image](https://user-images.githubusercontent.com/96952755/179384459-1108eb7f-6b65-4a49-a7a2-c224b02b613f.png)
 
+Walkthrough Video: 
+
+https://drive.google.com/file/d/17UlXLpfCr0QR2YnIjWdtOdKUa6reOlh2/view?usp=sharing
 
 Applied technologies:
 
