@@ -10,16 +10,16 @@ const Sequelize = require('sequelize');
 // });
 
 
-const mysql = require('mysql2');
+// const mysql = require('mysql2');
 
-const db = mysql.createConnection({
-  host: 'localhost',
-  // Your MySQL username,
-  user: 'root',
-  // Your MySQL password
-  password: 'Trav4235$',
-  database: 'ecommerce_db'
-});
+// const db = mysql.createConnection({
+//   host: 'localhost',
+//   // Your MySQL username,
+//   user: 'root',
+//   // Your MySQL password
+//   password: 'Trav4235$',
+//   database: 'ecommerce_db'
+// });
 
 const sequelize = process.env.JAWSDB_URL
   ? new Sequelize(process.env.JAWSDB_URL)
